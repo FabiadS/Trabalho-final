@@ -1,0 +1,99 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/background.png</file>
+        <file>Images/background(1).png</file>
+        <file>Images/foto.png</file>
+        <file>Images/arvore.png</file>
+        <file>Images/info-button.png</file>
+        <file>Images/plataforma.png</file>
+        <file>Images/Player/Dead/Dead (1).png</file>
+        <file>Images/Player/Dead/Dead (10).png</file>
+        <file>Images/Player/Dead/Dead (2).png</file>
+        <file>Images/Player/Dead/Dead (3).png</file>
+        <file>Images/Player/Dead/Dead (4).png</file>
+        <file>Images/Player/Dead/Dead (5).png</file>
+        <file>Images/Player/Dead/Dead (6).png</file>
+        <file>Images/Player/Dead/Dead (7).png</file>
+        <file>Images/Player/Dead/Dead (8).png</file>
+        <file>Images/Player/Dead/Dead (9).png</file>
+        <file>Sounds/button_click.wav</file>
+        <file>Sounds/game_sound.wav</file>
+        <file>Sounds/start_music.mp3</file>
+        <file>Images/game_over.png</file>
+        <file>Images/game_over (1).png</file>
+        <file>Images/win_image.png</file>
+        <file>Images/win(1).png</file>
+        <file>Images/Player/RunDireita/Run (1).png</file>
+        <file>Images/Player/RunDireita/Run (2).png</file>
+        <file>Images/Player/RunDireita/Run (3).png</file>
+        <file>Images/Player/RunDireita/Run (4).png</file>
+        <file>Images/Player/RunDireita/Run (5).png</file>
+        <file>Images/Player/RunDireita/Run (6).png</file>
+        <file>Images/Player/RunDireita/Run (7).png</file>
+        <file>Images/Player/RunDireita/Run (8).png</file>
+        <file>Images/Player/RunEsquerda/Run (1).png</file>
+        <file>Images/Player/RunEsquerda/Run (2).png</file>
+        <file>Images/Player/RunEsquerda/Run (3).png</file>
+        <file>Images/Player/RunEsquerda/Run (4).png</file>
+        <file>Images/Player/RunEsquerda/Run (5).png</file>
+        <file>Images/Player/RunEsquerda/Run (6).png</file>
+        <file>Images/Player/RunEsquerda/Run (7).png</file>
+        <file>Images/Player/RunEsquerda/Run (8).png</file>
+        <file>Images/EnemyCobra/walkDireita/walk(1).png</file>
+        <file>Images/EnemyCobra/walkDireita/walk(2).png</file>
+        <file>Images/EnemyCobra/walkDireita/walk(3).png</file>
+        <file>Images/EnemyCobra/walkDireita/walk(4).png</file>
+        <file>Images/EnemyCobra/walkEsquerda/walk(1).png</file>
+        <file>Images/EnemyCobra/walkEsquerda/walk(2).png</file>
+        <file>Images/EnemyCobra/walkEsquerda/walk(3).png</file>
+        <file>Images/EnemyCobra/walkEsquerda/walk(4).png</file>
+        <file>Images/EnemyPassaro/attack/attack(1).png</file>
+        <file>Images/EnemyPassaro/attack/attack(2).png</file>
+        <file>Images/EnemyPassaro/attack/attack(3).png</file>
+        <file>Images/EnemyPassaro/attack/attack(4).png</file>
+        <file>Images/EnemyPassaro/walk/walk(1).png</file>
+        <file>Images/EnemyPassaro/walk/walk(2).png</file>
+        <file>Images/EnemyPassaro/walk/walk(3).png</file>
+        <file>Images/EnemyPassaro/walk/walk(4).png</file>
+        <file>Fonte/COMICATE.TTF</file>
+        <file>Images/Coin/coin_image.png</file>
+        <file>Images/Coin/Gold_animation.png</file>
+        <file>Images/Health/heart.png</file>
+        <file>Images/Health/heart1.png</file>
+        <file>Images/Player/JumpDireita1/Jump (1).png</file>
+        <file>Images/Player/JumpDireita1/Jump (2).png</file>
+        <file>Images/Player/JumpDireita1/Jump (3).png</file>
+        <file>Images/Player/JumpDireita1/Jump (4).png</file>
+        <file>Images/Player/JumpDireita1/Jump (5).png</file>
+        <file>Images/Player/JumpDireita1/Jump (6).png</file>
+        <file>Images/Player/JumpDireita1/Jump (7).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (1).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (2).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (3).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (4).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (5).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (6).png</file>
+        <file>Images/Player/JumpEsquerda1/Jump (7).png</file>
+        <file>Sounds/sounds_hurt.wav</file>
+        <file>Sounds/sounds_jump.wav</file>
+        <file>Sounds/coin_sound.wav</file>
+        <file>Sounds/win_sound.wav</file>
+        <file>Sounds/gameOver_sound.wav</file>
+        <file>Images/Player/IdleDireita/Idle (1).png</file>
+        <file>Images/Player/IdleDireita/Idle (2).png</file>
+        <file>Images/Player/IdleDireita/Idle (3).png</file>
+        <file>Images/Player/IdleDireita/Idle (4).png</file>
+        <file>Images/Player/IdleEsquerda/Idle (1).png</file>
+        <file>Images/Player/IdleEsquerda/Idle (2).png</file>
+        <file>Images/Player/IdleEsquerda/Idle (3).png</file>
+        <file>Images/Player/IdleEsquerda/Idle (4).png</file>
+        <file>Images/Player/HurtDireita/Hurt (1).png</file>
+        <file>Images/Player/HurtDireita/Hurt (2).png</file>
+        <file>Images/Player/HurtDireita/Hurt (3).png</file>
+        <file>Images/Player/HurtDireita/Hurt (4).png</file>
+        <file>Images/Player/HurtEsquerda/Hurt (1).png</file>
+        <file>Images/Player/HurtEsquerda/Hurt (2).png</file>
+        <file>Images/Player/HurtEsquerda/Hurt (3).png</file>
+        <file>Images/Player/HurtEsquerda/Hurt (4).png</file>
+    </qresource>
+</RCC>
